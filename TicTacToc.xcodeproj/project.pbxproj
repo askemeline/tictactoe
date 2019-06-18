@@ -14,6 +14,7 @@
 		2AC13BC222B90CCB00F80969 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AC13BC022B90CCB00F80969 /* LaunchScreen.storyboard */; };
 		2AC13BCD22B90CCB00F80969 /* TicTacTocTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AC13BCC22B90CCB00F80969 /* TicTacTocTests.swift */; };
 		2AC13BD822B90CCB00F80969 /* TicTacTocUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AC13BD722B90CCB00F80969 /* TicTacTocUITests.swift */; };
+		2AC13BE622B90EFE00F80969 /* original-2301045-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2AC13BE522B90EFE00F80969 /* original-2301045-1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		2AC13BD322B90CCB00F80969 /* TicTacTocUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TicTacTocUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AC13BD722B90CCB00F80969 /* TicTacTocUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacTocUITests.swift; sourceTree = "<group>"; };
 		2AC13BD922B90CCB00F80969 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2AC13BE522B90EFE00F80969 /* original-2301045-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "original-2301045-1.jpg"; path = "../../original-2301045-1.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		2AC13BB622B90CC100F80969 /* TicTacToc */ = {
 			isa = PBXGroup;
 			children = (
+				2AC13BE522B90EFE00F80969 /* original-2301045-1.jpg */,
 				2AC13BB722B90CC100F80969 /* AppDelegate.swift */,
 				2AC13BB922B90CC100F80969 /* ViewController.swift */,
 				2AC13BBB22B90CC100F80969 /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2AC13BE622B90EFE00F80969 /* original-2301045-1.jpg in Resources */,
 				2AC13BC222B90CCB00F80969 /* LaunchScreen.storyboard in Resources */,
 				2AC13BBF22B90CCB00F80969 /* Assets.xcassets in Resources */,
 				2AC13BBD22B90CC100F80969 /* Main.storyboard in Resources */,
